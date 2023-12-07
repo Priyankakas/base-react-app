@@ -1,0 +1,15 @@
+
+.sidebar{
+    width: 35vh;
+    background-color: peachpuff;
+
+    .sidebar-body{
+        height: calc(100vh - 10rem);
+    }
+
+    .sidebar-footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
